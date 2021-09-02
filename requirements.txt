@@ -1,0 +1,7 @@
+wheel
+numpy
+pandas
+tensorflow-gpu
+Pillow
+jupyter
+matplotlib
